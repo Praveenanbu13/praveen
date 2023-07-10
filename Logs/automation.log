@@ -1,0 +1,4 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Driver [C:\Users\Praveen\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+INFO     root:test_login.py:31 ************ Test_01_Login ***********
+INFO     root:test_login.py:32 *********** Verifying Login Page *********
